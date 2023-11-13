@@ -1,0 +1,43 @@
+a {
+    text-decoration: none;
+}
+.lol2 {
+color: rgb(255, 211, 33);
+font-size: 30px; 
+text-shadow: 2px 1px rgb(79, 51, 1);
+position: absolute;
+bottom: 800;
+left: 50
+}
+.boop {
+    position: relative;
+    left: 140px;
+}
+.ded {
+    border: 1px solid;
+    background-color: rgb(220, 219, 219);
+    height: 700;
+    width: 400;
+    position: absolute;
+    bottom: 80;
+    right:750 ;
+}
+.box {
+    border: 1px solid;
+    background-color: white;
+    height: 44 ;
+    width: 263;
+    margin: 20px 20px 20px 40px;
+}
+.box1 {
+    
+    display: flex;
+    margin: 20px 20px 20px 40px;
+    flex-direction: column;
+
+    border: 1px solid;
+    background-color: white;
+    height: 44 ;
+    width: 70%;
+   
+}

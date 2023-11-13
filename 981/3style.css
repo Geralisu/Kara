@@ -1,0 +1,327 @@
+
+a {
+  text-decoration: none;
+}
+.lol1 {
+  color: rgb(255, 211, 33);
+  font-size: 30px; 
+  text-shadow: 2px 1px rgb(79, 51, 1);
+  position: absolute;
+  top: 6500;
+  left: 100
+}
+.lol2 {
+  color: rgb(255, 211, 33);
+  font-size: 30px; 
+  text-shadow: 2px 1px rgb(79, 51, 1);
+  position: absolute;
+  bottom: 700;
+  text-align: center;
+
+  }
+  .baza{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 300;
+    width: 300;
+    position: absolute;
+    top: 100;
+    left: 300;
+  }
+  .zaza{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 300;
+    width: 300;
+    position: absolute;
+    top: 100;
+    right: 300;
+  }
+  .img {
+    position: relative;
+    bottom: 300;
+    left: 50;
+    height: 200;
+    width: 200;
+  }
+  .button {
+    position: relative;
+    bottom: 345;
+    left: 240;
+  }
+  .text {
+    color: aliceblue;
+    position: relative;
+    bottom: 310;
+
+  }
+  .baza1{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 30;
+    width: 300;
+    position: absolute;
+    top: 500;
+    left: 300;
+  }
+  .baza2{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 30;
+    width: 300;
+    position: absolute;
+    top: 900;
+    left: 300;
+  }
+  .baza3{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 30;
+    width: 300;
+    position: absolute;
+    top: 1300;
+    left: 300;
+  }
+  .baza4{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 30;
+    width: 300;
+    position: absolute;
+    top: 1700;
+    left: 300;
+  }
+  .baza5{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 30;
+    width: 300;
+    position: absolute;
+    top: 2100;
+    left: 300;
+  }
+  .baza6{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 30;
+    width: 300;
+    position: absolute;
+    top: 2500;
+    left: 300;
+  }
+  .baza7{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 30;
+    width: 300;
+    position: absolute;
+    top: 2900;
+    left: 300;
+  }
+  .baza8{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 30;
+    width: 300;
+    position: absolute;
+    top: 3300;
+    left: 300;
+  }
+  .baza9{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 30;
+    width: 300;
+    position: absolute;
+    top: 3700;
+    left: 300;
+  }
+  .baza10{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 30;
+    width: 300;
+    position: absolute;
+    top: 4100;
+    left: 300;
+  }
+  .baza11{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 30;
+    width: 300;
+    position: absolute;
+    top: 4500;
+    left: 300;
+  }
+  .baza12{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 30;
+    width: 300;
+    position: absolute;
+    top: 4900;
+    left: 300;
+  }
+  .baza13{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 30;
+    width: 300;
+    position: absolute;
+    top:5300;
+    left: 300;
+  }
+  .baza14{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 30;
+    width: 300;
+    position: absolute;
+    top: 5700;
+    left: 300;
+  }
+  .baza15{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 30;
+    width: 300;
+    position: absolute;
+    top: 6100;
+    left: 300;
+  }
+  .zaza1{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 300;
+    width: 300;
+    position: absolute;
+    top: 500;
+    right: 300;
+  }
+  .zaza2{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 300;
+    width: 300;
+    position: absolute;
+    top: 900;
+    right: 300;
+  }
+  .zaza3{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 300;
+    width: 300;
+    position: absolute;
+    top: 1300;
+    right: 300;
+  }
+  .zaza4{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 300;
+    width: 300;
+    position: absolute;
+    top: 1700;
+    right: 300;
+  }
+  .zaza5{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 300;
+    width: 300;
+    position: absolute;
+    top: 2100;
+    right: 300;
+  }
+  .zaza6{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 300;
+    width: 300;
+    position: absolute;
+    top: 2500;
+    right: 300;
+  }
+  .zaza7{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 300;
+    width: 300;
+    position: absolute;
+    top: 2900;
+    right: 300;
+  }
+  .zaza8{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 300;
+    width: 300;
+    position: absolute;
+    top: 3300;
+    right: 300;
+  }
+  .zaza9{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 300;
+    width: 300;
+    position: absolute;
+    top: 3700;
+    right: 300;
+  }
+  .zaza10{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 300;
+    width: 300;
+    position: absolute;
+    top: 4100;
+    right: 300;
+  }
+  .zaza11{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 300;
+    width: 300;
+    position: absolute;
+    top: 4500;
+    right: 300;
+  }
+  .zaza12{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 300;
+    width: 300;
+    position: absolute;
+    top: 4900;
+    right: 300;
+  }
+  .zaza13{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 300;
+    width: 300;
+    position: absolute;
+    top: 5300;
+    right: 300;
+  }
+  .zaza14{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 300;
+    width: 300;
+    position: absolute;
+    top: 5700;
+    right: 300;
+  }
+  .zaza15{
+    border: 1px solid;
+    background-color: rgb(63, 52, 14);
+    height: 300;
+    width: 300;
+    position: absolute;
+    top: 6100;
+    right: 300;
+  }

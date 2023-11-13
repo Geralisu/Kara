@@ -1,0 +1,91 @@
+a {
+    text-decoration: none;
+}
+header{
+
+    height: 200;
+}
+.lol {
+padding: 0 0 0 660;
+position: relative;
+bottom: 370;
+color: rgb(182, 0, 0);
+font-size: 50;
+word-spacing: 5;
+text-shadow: 3px 3px black;
+}
+.img {
+    position: relative;
+    bottom: 180 ; 
+    left: 110;
+    border: 1px solid;
+}
+.img1 {
+    position: relative;
+    bottom: 380 ; 
+    left: 680;
+    border: 1px solid;
+}
+.img2 {
+    position: relative;
+    bottom: 380 ; 
+    left: 735;
+    border: 1px solid;
+}
+.img3 {
+    position: relative;
+    bottom: 380 ; 
+    left: 793;
+    border: 1px solid;
+}
+
+.lol2 {
+    position: relative;
+bottom: 400 ;
+left: 375;
+color: rgb(182, 0, 0);
+font-size: 30px; 
+text-shadow: 2px 1px black;
+}
+.lol3 {
+    position: relative;
+bottom: 400 ;
+left: 455;
+color: rgb(182, 0, 0);
+font-size: 30px; 
+text-shadow: 2px 1px black;
+}
+.lol4 {
+    position: relative;
+bottom: 400 ;
+left: 525;
+color: rgb(182, 0, 0);
+font-size: 30px; 
+text-shadow: 2px 1px black;
+}
+main {
+
+    height: 200;
+}
+.text {
+    font-size: 20;
+    padding: 110 680 10 110;
+    position: relative;
+    bottom: 260;
+    word-spacing: 5;
+    line-height: 1.5;
+    color: rgb(182, 0, 0);
+    text-shadow: 1.2px 1px black;
+}
+footer {
+
+    height: 60%;
+}
+.text1 {
+    padding: 0 0 0 110;
+    position: absolute;
+bottom: 100;
+    font-size: 20;
+color: rgb(182, 0, 0);
+    text-shadow: 1.2px 1px black;
+}

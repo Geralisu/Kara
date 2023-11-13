@@ -1,0 +1,38 @@
+a {
+    text-decoration: none;
+}
+.lol2 {
+color: rgb(182, 0, 0);;
+font-size: 30px; 
+text-shadow: 2px 1px black;
+position: relative;
+bottom:700;
+left: 50 ;
+}
+.text {
+    font-size: 20;
+    word-spacing: 5;
+    line-height: 1.5;
+    color:rgb(182, 0, 0);
+ text-shadow: 1px 1px black;
+    position: absolute;
+    bottom: 350;
+    right: 115;
+    padding: 0 0 50 150;
+}   
+.bb {
+    height: 740;
+    width: 1472;
+}
+.img {
+    position: absolute;
+    bottom: 150;
+    left: 150;
+    border: 1px solid;
+}
+.img1 {
+    position: absolute;
+    bottom: 150;
+   right: 150;
+    border: 1px solid;
+}
